@@ -42,6 +42,16 @@ The goal is to demonstrate how forecasting + BI can be combined to support **dem
      - Category / region breakdown 
      - Key KPIs and filters
 
+Key Learnings & Insights
+
+Identified seasonality and trend patterns in Blinkit sales.
+
+Built ARIMA/SARIMA models to predict future demand.
+
+Demonstrated how Python forecasting can integrate with Power BI for business reporting.
+
+Showcased an end-to-end analytics workflow from raw data → model → dashboard.
+
 ---
 
 ## 📂 Repository Structure
@@ -54,12 +64,3 @@ blinkit-sales-forecasting/
 ├── screenshots/              # Plots & dashboard images
 └── README.md                 # Project documentation
 
-Key Learnings & Insights
-
-Identified seasonality and trend patterns in Blinkit sales.
-
-Built ARIMA/SARIMA models to predict future demand.
-
-Demonstrated how Python forecasting can integrate with Power BI for business reporting.
-
-Showcased an end-to-end analytics workflow from raw data → model → dashboard.
