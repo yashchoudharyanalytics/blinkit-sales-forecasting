@@ -33,13 +33,13 @@ The goal is to demonstrate how forecasting + BI can be combined to support **dem
 4. **Forecasting & Evaluation**
    - Generated future sales forecasts
    - Compared forecast vs actual on test set
-   - Used metrics like MAE / RMSE (if available)
+
 
 5. **Power BI Dashboard**
    - Built a dashboard to show:
      - Historical sales trend
      - Forecasted sales
-     - Category / region breakdown (if available)
+     - Category / region breakdown 
      - Key KPIs and filters
 
 ---
@@ -53,3 +53,13 @@ blinkit-sales-forecasting/
 ├── powerbi/                  # Power BI report file
 ├── screenshots/              # Plots & dashboard images
 └── README.md                 # Project documentation
+
+Key Learnings & Insights
+
+Identified seasonality and trend patterns in Blinkit sales.
+
+Built ARIMA/SARIMA models to predict future demand.
+
+Demonstrated how Python forecasting can integrate with Power BI for business reporting.
+
+Showcased an end-to-end analytics workflow from raw data → model → dashboard.
